@@ -98,7 +98,7 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/Users/orimolad/Desktop/Pics/13217382_1270041989692399_879068041416732425_o copy 3.jpg") no-repeat right fixed ;
+    background: url("img/13217382_1270041989692399_879068041416732425_o copy 3.jpg") no-repeat right fixed ;
     background-color: black;
     height: 100vh;
     color: #ffffff;
